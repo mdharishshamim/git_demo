@@ -3,3 +3,7 @@ first line in git hub
 
 
 second line from haarish_dev branch
+
+
+
+line from the cloned repository
